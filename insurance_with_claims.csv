@@ -1,0 +1,10 @@
+company_name,product_type,year,claims_paid,premiums_collected
+A Corp,Life Insurance,2021,200,1000
+A Corp,Life Insurance,2022,300,1200
+A Corp,Life Insurance,2023,600,1300
+B Inc,Auto Insurance,2022,100,500
+B Inc,Auto Insurance,2023,350,600
+C Ltd,Health Insurance,2022,500,800
+C Ltd,Health Insurance,2023,400,700
+D Group,Life Insurance,2022,700,1400
+D Group,Life Insurance,2023,900,1600
